@@ -7,7 +7,6 @@ Considere uma empresa bem estabelecida que atua no setor de varejo de alimentos.
 
 ![pairplot](images/pairplot_clusters.png)
 
-Projeto de ensino utilizado em curso de Ciência de Dados ministrado por mim para a [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/). Baseado no processo seletivo para Analista de Dados do iFood disponível [neste repositório](https://github.com/ifood/ifood-data-business-analyst-test).
 
 Descrição completa do case [aqui](case/README.md).
 
@@ -15,11 +14,6 @@ Descrição completa do case [aqui](case/README.md).
   <a href="https://www.linkedin.com/in/flsbustamante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-## Objetivos
-
-O objetivo deste projeto é mostrar aos alunos como estruturar um projeto para um processo seletivo que foi aplicado na vida real.
-
-Durante o curso, mostrei a importância de realizar o pré-processamento dos dados, bem como a importância de se realizar a análise exploratória dos dados. Muito foi discutido sobre o que deve ser apresentado para em um documento técnico e o que deve ser apresentado em uma apresentação para um público não técnico.
 
 Objetivos detalhados:
 
